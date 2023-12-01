@@ -1,0 +1,2 @@
+[2m2023-12-01T11:35:59.760580Z[0m [32m INFO[0m [2mlogging_rust_example[0m[2m:[0m preparing to shave yaks [3mnumber_of_yaks[0m[2m=[0m3
+[2m2023-12-01T11:35:59.760616Z[0m [32m INFO[0m [2mlogging_rust_example[0m[2m:[0m yak shaving completed. [3mall_yaks_shaved[0m[2m=[0mfalse

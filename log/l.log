@@ -1,0 +1,4 @@
+[2m2023-12-01T11:37:26.305481Z[0m [32m INFO[0m [2mlogging_rust_example[0m[2m:[0m preparing to shave yaks [3mnumber_of_yaks[0m[2m=[0m3
+[2m2023-12-01T11:37:26.305530Z[0m [32m INFO[0m [2mlogging_rust_example[0m[2m:[0m yak shaving completed. [3mall_yaks_shaved[0m[2m=[0mfalse
+[2m2023-12-01T11:37:33.660287Z[0m [32m INFO[0m [2mlogging_rust_example[0m[2m:[0m preparing to shave yaks [3mnumber_of_yaks[0m[2m=[0m3
+[2m2023-12-01T11:37:33.660322Z[0m [32m INFO[0m [2mlogging_rust_example[0m[2m:[0m yak shaving completed. [3mall_yaks_shaved[0m[2m=[0mfalse
